@@ -43,3 +43,7 @@ This course has been tested on the following system configuration:
 
 * [Puppet 5.0 Essentials for Configuration Management [Video]](https://www.packtpub.com/virtualization-and-cloud/puppet-50-essentials-configuration-management-video?utm_source=github&utm_medium=repository&utm_campaign=9781789137255)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789532067">https://packt.link/free-ebook/9781789532067 </a> </p>
